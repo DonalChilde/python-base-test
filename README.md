@@ -7,7 +7,7 @@
 [![License](https://img.shields.io/pypi/l/python-base-test)][license]
 
 [![Read the documentation at https://python-base-test.readthedocs.io/](https://img.shields.io/readthedocs/python-base-test/latest.svg?label=Read%20the%20Docs)][read the docs]
-[![Tests](https://github.com/DonalChilde/python-base-test/workflows/Tests/badge.svg)][tests]
+[![Tests](https://github.com/DonalChilde/python-base-test/workflows/python_package_test/badge.svg)][tests]
 [![Codecov](https://codecov.io/gh/DonalChilde/python-base-test/branch/main/graph/badge.svg)][codecov]
 
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)][pre-commit]
