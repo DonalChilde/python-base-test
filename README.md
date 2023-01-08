@@ -15,7 +15,7 @@
 
 [pypi status]: https://pypi.org/project/python-base-test/
 [read the docs]: https://python-base-test.readthedocs.io/
-[tests]: https://github.com/DonalChilde/python-base-test/actions?workflow=Tests
+[tests]: https://github.com/DonalChilde/python-base-test/actions?workflow=python_package_test
 [codecov]: https://app.codecov.io/gh/DonalChilde/python-base-test
 [pre-commit]: https://github.com/pre-commit/pre-commit
 [black]: https://github.com/psf/black
