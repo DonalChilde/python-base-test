@@ -7,7 +7,7 @@ name: Labeler
 #       - master
 
 on:
-  workflow-dispatch:
+  workflow_dispatch:
 
 jobs:
   labeler:
